@@ -1,0 +1,289 @@
+Joaquina Paiva
+1 - Abacate
+1 - alecrim
+1 - cúrcuma
+1 - escarola
+1 - laranja orgânica
+1 - ovos caipira
+2 - ponkan
+1 - tofu orgânico
+
+Calado Mayara
+1 - Pão integral
+1 - Palmito
+1 - Limão Rosa
+
+Vanessa da Silva
+2 - banana
+1 - alface americana
+1 - couve manteiga
+1 - mandioca descascada
+1 - ponkan orgânica
+2 - tofu defumado orgânico
+1 - Salsinha
+
+Leonardo Felipe
+1 - ponkan
+2 - alface americana
+1 - limão Taiti
+1 - banana
+1 - ervilha torta
+
+Rosana Milton
+1 - Abacate
+1 - Alface americana
+1 - Banana
+1 - Cebolinha
+1 - Ervilha
+1 - Laranja
+1 - Limão rosa
+1 - Mexerica
+2 - ovos
+1 - Pão australiano
+2 - ponkan
+1 - Palmito
+1 - Palmito
+1 - Salsinha
+1 - Tofu defumado
+
+Rosi Gomes
+2 - ovos
+1 - malva
+1 - geleia
+1 - palmito
+0,5 - banana
+1 - Azedinha
+0,5 - Limão rosa
+1 - Tofu defumado
+
+Luana Trippel
+2 - ovos
+1 - Banana
+1 - Trigo integral
+1 - Geleia de uva
+1 - Limão rosa
+
+Jessica Weiss
+1 - ovos
+1 - banana
+1 - farinha de trigo orgânica integral
+1 - ponkan
+1 - pupunha
+1 - abacate
+1 - tofu orgânico
+
+Maria Alice Dubbel
+1 - Banana
+1 - Cebolinha
+1 - Ovos
+1 - Limão Taiti
+1 - Ponkan
+
+miriam maltzbier
+1 - abacate
+2 - alface
+1 - batata doce
+1 - cúrcuma
+1 - ervilha torta
+2 - limão rosa
+2 - mexerica
+1 - tomilho
+1 - ovos
+1 - farinha de trigo orgânica integral
+
+Inês pale
+1 - Laranja
+2 - batata doce
+1 - Limão rosa
+1 - Limão taiti
+1 - Tomilho
+
+Fernanda Sour
+3 - ovos
+2 - ponkan
+2 - mandioca descascada
+1 - babosa
+1 - farinha integral
+1 - banana
+1 - ervilha torta
+1 - salsinha
+1 - limão taiti
+
+Thais Pilsner
+1 - ovos
+1 - farinha de trigo orgânica integral
+1 - limão
+1 - banana
+1 - tofu
+1 - cebolinha
+
+Lariany Ale
+1 - Farinha de trigo orgânica integral
+1 - Banana
+1 - Alecrim
+1 - Cúrcuma
+1 - Ora-pro-nobis
+1 - Batata salsa
+
+Rafaela
+1 - cúrcuma
+2 - banana
+1 - pão integral
+1 - Tofu
+1 - Repolho roxo
+
+Joseli
+1 - tofu defumado
+1 - farinha
+1 - Ovos
+1 - palmito pupunha tolete
+1 - mexerica
+2 - tansagem
+1 - malva
+2 - erva cidreira
+
+Luana Cabelo
+1 - Abacate
+1 - Limão rosa
+1 - Mandioca descascada
+1 - Ovos
+
+Camila Santos
+1 - trigo integral
+2 - banana
+3 - ponkan
+4 - batata salsa
+5 - abacate
+
+Camila Hatsumoto
+1 - salsinha
+1 - repolho roxo
+1 - mandioca descascada
+1 - ponkan
+1 - abacate
+1 - azedinha
+1 - ervilha torta
+2 - ovos
+1 - tofu orgânico
+
+FERNANDA da Silva
+1 - açúcar demerara
+1 - Banana
+1 - Alface
+1 - Couve
+1 - Pão integral
+1 - Ovos
+
+Ketty da Costa
+1 - limão rosa
+1 - ponkan
+1 - mandioca descascada
+1 - taioba
+1 - Cebolinha
+1 - Salsinha
+
+Ju Araujo
+1 - Abacate
+1 - Banana
+1 - Limão rosa
+1 - Pão australiano
+1 - Pão integral
+1 - Ponkan
+1 - Ovos
+
+Cristiane
+1 - Ponkan
+1 - Limão
+1 - Tofu defumado
+1 - Banana
+
+Alexandrina Vodka
+1 - pão australiano
+4 - ovos
+1 - Salsinha
+1 - Cebolinha
+
+Juliana Melo
+1 - ovos
+1 - banana
+1 - abacate
+1 - batata salsa
+1 - alface
+1 - ervilha torta
+1 - salsinha
+
+Eneide
+2 - banana
+2 - ponkan
+1 - Ervilha
+1 - Palmito
+1 - Palmito
+
+Tise
+1 - abacate
+1 - Alface
+1 - batata salsa
+1 - batata doce
+1 - farinha de banana
+1 - farinha de trigo orgânica integral
+1 - mandioca
+2 - ovos
+2 - pão integral
+1 - ponkan
+1 - tofu defumado
+
+fabiola maranhao
+1 - Pão integral
+1 - Taioba
+1 - Mexerica
+1 - Suco de uva
+1 - Banana
+
+Igor José
+1 - Azedinha
+1 - Banana
+1 - Capiçoba
+1 - Ora-pro-nobis
+1 - Ponkan
+
+Fernanda Castro
+2 - ora-pro-nobis
+1 - taioba
+1 - azedinha
+
+Adele
+1 - couve manteiga
+2 - ovos
+2 - erva cidreira
+1 - folhas de laranjeira
+1 - limão rosa
+1 - limão Taiti
+2 - farinha de trigo orgânica integral
+
+Isabel Graci
+1 - ovos
+1 - Ponkan
+1 - Salsinha
+1 - Couve manteiga
+1 - abacate
+
+Evandro Castro
+1 - Limão rosa
+1 - Farinha de trigo orgânica integral
+2 - Abacate
+1 - Açúcar mascavo
+
+Elisabeth Castro
+1 - Abacate
+2 - Banana
+1 - Batata salsa
+1 - Batata doce
+2 - Couve manteiga
+2 - Fuba
+1 - Geleia de uva
+2 - Laranja
+1 - Mel caipira
+1 - Ponkan
+1 - Pão integral
+1 - Salsinha
+2 - Alface americana
